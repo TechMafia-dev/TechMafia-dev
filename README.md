@@ -1,122 +1,175 @@
-# Hey, I'm Shreyash 👋
 
-**Engineer by training. Developer by practice.**
+# Shreyash Patidar
 
-I build software and intelligent systems at the intersection of computational engineering, optimization, and AI.
+**Software & AI Engineering | Computational Systems | Independent R&D**
 
-My development journey started with Java, Android applications, C++, and robotics — well before LLMs became mainstream development tools. Over the years, that interest has evolved into Python-based research, backend infrastructure, quantitative systems, and applied machine learning.
+Engineer by training. Developer by practice.
 
-I'm currently an engineer at Jaguar Land Rover, working on engineering systems and computational R&D.
+I've been building software since before the LLM era, starting with Java, Android applications, C++, and robotics. My work has since evolved into Python-based computational engineering, backend infrastructure, machine learning, and intelligent automation.
 
-Outside my professional work, I build independent software, automation, and research systems.
+I'm currently an engineer at Jaguar Land Rover, working at the intersection of physical systems, computational modelling, and engineering R&D.
 
-**My philosophy:** Understand the problem. Build the system. Measure the results. Keep improving.
+Outside my professional work, I develop independent software and research systems spanning quantitative finance, AI agents, and automation.
 
----
+**I build systems, not just prototypes.**
 
-## 🕰️ Before the LLM era
-
-I started developing software when building an application meant understanding its architecture, implementing its features, debugging it, and figuring out how to make everything work.
-
-Some of my earlier work includes:
-
-| Project              | Domain                          | Year |
-| -------------------- | ------------------------------- | ---- |
-| ShoppingCartApp      | Android application development | 2020 |
-| myChess              | Android game development        | 2021 |
-| 3DPC-2020-21         | 3D printing and engineering     | 2021 |
-| Pika_Pika_pikachu_AR | Augmented reality / C++         | 2022 |
-| ArcanaHackathon      | Python development              | 2023 |
-| AndroidFeaturesStack | Android / Kotlin                | 2023 |
-
-These projects represent different stages of my development journey.
-
-Some are historical, some are experimental, and others will be progressively documented and made public.
+[Explore public projects](#public-projects) · [Development journey](#development-journey) · [Private R&D](#independent-rd--private-by-design) · [Connect](#connect)
 
 ---
 
-## 🛠️ What I work with
+## What I work on
 
-**Languages:** Python · Java · Kotlin · C++ · SQL
+| Area | Technologies and interests |
+|---|---|
+| Software engineering | Python, Java, Kotlin, C++, backend development, REST APIs |
+| Applied AI & ML | Neural networks, image processing, state estimation, LLM integration |
+| Computational engineering | Numerical modelling, optimization, simulation, data analysis |
+| Backend & infrastructure | FastAPI, Linux, Google Cloud Platform, Nginx |
+| Data-intensive systems | NumPy, Pandas, vectorized computation, research pipelines |
+| Applications & visualization | Android, Dash, Streamlit, interactive dashboards |
 
-**Backend & applications:** FastAPI · REST APIs · Dash · Streamlit · Android
-
-**Data & computational engineering:** NumPy · Pandas · Numerical Optimization · Simulation · Data Visualization
-
-**AI & research:** Machine Learning · Neural Networks · State Estimation · LLM Integration · AI Agents
-
-**Infrastructure:** Linux · Google Cloud Platform · Git · Nginx
-
----
-
-## 🚀 Public engineering portfolio
-
-I'm progressively documenting and publishing selected projects from my development journey.
-
-The public portfolio focuses on demonstrating software architecture, algorithms, implementation decisions, and reproducible engineering.
-
-Featured repositories will be added here as their documentation is completed.
+My work combines domain knowledge, computational methods, and software engineering to solve complex problems.
 
 ---
 
-## 🔬 Independent R&D — Private by design
+## Public projects
 
-Alongside my professional work, I maintain several independent, long-term research and software projects.
+A selection of projects from my software development journey.
 
-These systems are developed for personal use and research. Their source code, proprietary methods, and sensitive operational details are not publicly available.
+I'm progressively documenting these repositories with architecture notes, implementation details, reproducible examples, and demonstrations.
 
-### 📈 TradBot_v2
+### Android & application development
 
-**Quantitative research & trading infrastructure**
+**[AndroidFeaturesStack](https://github.com/TechMafia-dev/AndroidFeaturesStack)**
 
-An independent research and automation system covering historical market-data analysis, strategy evaluation, portfolio-related research, and trading workflows.
+Kotlin-based Android development and application features.
 
-Areas of engineering include data processing, computational optimization, backend integration, and system monitoring.
+**[ShoppingCartApp](https://github.com/TechMafia-dev/ShoppingCartApp)**
 
-*Status: Active development · Private repository*
+An earlier Java-based Android shopping application, exploring authentication, account management, and cloud-connected application features.
 
-### 🤖 BotWorld
+### Algorithms & engineering
 
-**Local AI agents & orchestration**
+**[ArcanaHackathon](https://github.com/TechMafia-dev/ArcanaHackathon)**
 
-An experimental environment for developing and evaluating AI-agent workflows, LLM integrations, and automated task execution.
+An earlier Python development project.
 
-*Status: Active development · Private repository*
+**DDP-PathPlanning — Private, under review**
 
-### 🛡️ TheWatchDog
+A historical C-based path-planning project. Documentation and publication status are being reviewed.
 
-**Security, observability & automated assessment**
+### Algorithms & problem solving
 
-An independent project exploring API assessment, security testing, monitoring, and automated software-system evaluation.
+**[neetcode-submissions](https://github.com/TechMafia-dev/neetcode-submissions)**
 
-*Status: Active development · Private repository*
+My ongoing Python solutions to data structures and algorithms problems.
 
-### 💹 InvestmentGuide
+The repository documents my algorithmic problem-solving practice.
 
-**Independent financial research**
-
-A private research project focused on financial analysis and investment-related tooling.
-
-*Status: Private research*
-
-> **A note on private work:** Selected R&D projects remain private by design. Their architecture and selected capabilities may be discussed through private technical walkthroughs or demonstrations. Public source-code access is not required for such discussions.
+> Additional historical projects will be linked as their documentation and publication reviews are completed.
 
 ---
 
-## 🧭 Engineering interests
+## Development journey
 
-* Applied AI and intelligent systems
-* Backend engineering and software architecture
-* Computational optimization and numerical methods
-* Quantitative research and data-intensive applications
-* Automation, reliability, and developer tooling
+My software development experience predates the widespread adoption of generative AI.
+
+| Period | Development focus |
+|---|---|
+| 2020–2021 | Java, Android applications, game development |
+| 2021–2023 | C/C++, robotics, augmented reality, Kotlin, Python |
+| 2023–2025 | Computational engineering, numerical modelling, optimization |
+| 2025–Present | Backend infrastructure, quantitative research, applied AI, automation |
+
+This progression reflects my interest in understanding systems at multiple levels — from algorithms and applications to infrastructure and intelligent decision-making.
 
 ---
 
-## 🤝 Connect
+## Independent R&D — Private by design
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [Portfolio](YOUR_PORTFOLIO_URL)
+I maintain several independent, long-term software and research projects.
 
-I'm interested in engineering conversations, challenging technical problems, and opportunities to build useful systems.
+These are active systems developed for personal research and use. Their source code, proprietary methods, sensitive data, and operational details are not publicly available.
 
-*Some projects are open source. Some are private. All reflect an ongoing interest in engineering and building software.*
+### TradBot_v2
+**Quantitative research and trading infrastructure**
+
+An independent software system supporting historical market-data analysis, strategy research, computational evaluation, position sizing, and automated trading workflows.
+
+Engineering areas include:
+
+- Data-intensive computation and optimization
+- Historical evaluation and research pipelines
+- Backend services and API integration
+- Automation, monitoring, and execution workflows
+
+**Status:** Active development · Private repository
+
+### BotWorld
+**AI agents and LLM orchestration**
+
+An experimental environment for developing local AI-agent workflows and integrating language models with software tools.
+
+Engineering areas include:
+
+- LLM integration and orchestration
+- Tool-based workflows
+- Automated task execution
+- Agent experimentation
+
+**Status:** Active development · Private repository
+
+### TheWatchDog
+**API security, observability, and automated assessment**
+
+An independent project exploring security testing, API assessment, operational monitoring, and automated evaluation of software systems.
+
+Engineering areas include:
+
+- API testing and assessment
+- Authentication and security validation
+- Monitoring and anomaly detection
+- Interactive engineering dashboards
+
+**Status:** Active development · Private repository
+
+### InvestmentGuide
+**Financial analysis and independent research**
+
+A private research project focused on financial analysis and investment-related software tooling.
+
+**Status:** Private research
+
+### On private work
+
+These projects represent ongoing independent R&D and are intentionally maintained as private intellectual property.
+
+Selected architecture, engineering decisions, and demonstrated capabilities may be discussed through private technical walkthroughs or controlled demonstrations.
+
+Public source-code access is not part of that process.
+
+---
+
+## Engineering philosophy
+
+I value engineering that is:
+
+- **Understandable:** Clear architecture, explicit assumptions, and documented decisions.
+- **Measurable:** Evaluation, benchmarking, and evidence-driven improvement.
+- **Reliable:** Automation, observability, and thoughtful failure handling.
+- **Efficient:** Computational optimization and practical resource management.
+- **Independent:** Building and maintaining systems with long-term utility.
+
+My interests include software architecture, applied machine learning, computational optimization, intelligent systems, and developer tooling.
+
+---
+
+## Connect
+
+**GitHub:** [TechMafia-dev](https://github.com/TechMafia-dev)
+
+**LinkedIn:** Add LinkedIn URL
+
+**Portfolio:** Add portfolio URL
+
+I'm interested in connecting with engineers, researchers, and builders working on challenging technical problems.
